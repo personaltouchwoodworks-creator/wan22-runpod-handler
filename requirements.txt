@@ -1,0 +1,8 @@
+runpod
+diffusers>=0.30.0
+transformers
+accelerate
+Pillow
+torch
+imageio
+imageio-ffmpeg
